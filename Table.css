@@ -1,0 +1,14 @@
+table{
+    margin-top: 1cm;
+    margin-left: 8cm;
+    width: 60%;
+    border-collapse: collapse;
+    height: 10cm;
+    
+  }
+  tr:nth-child(odd) {
+    background: white;
+  }
+  tr:nth-child(even) {
+    background: #E8E6D1;
+  }

@@ -1,0 +1,17 @@
+h1, h2, h3{
+    font-family: 'Cormorant Garamond', serif;
+}
+h1{
+    font-weight:bold;
+    font-size: 10ch;
+    padding: 0ch;
+    margin: 0ch;
+}
+h2{
+    margin-top: -6px;
+    text-decoration: underline;
+    font-size: 4ch;
+}
+h3{
+    font-size: 4ch;
+}
